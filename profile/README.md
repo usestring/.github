@@ -36,7 +36,7 @@ is the official MCP server, local or hosted:
 npx @usestring/mcp    # local; STRING_AI_API_KEY in the environment
 ```
 
-...or point any MCP client at `https://mcp.usestring.ai/YOUR_API_KEY/v1/mcp`.
+...or point any MCP client at `https://mcp.usestring.ai?login` and sign in with your String account.
 
 ## What we've open sourced
 
